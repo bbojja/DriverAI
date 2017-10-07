@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ejml-0">
+    <CLASSES>
+      <root url="file://D:/Java Libraries/ejml-0.29-libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Java Libraries/ejml-0.29-libs" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Java Libraries/ejml-0.29-libs" recursive="false" />
+    <jarDirectory url="file://D:/Java Libraries/ejml-0.29-libs" recursive="false" type="SOURCES" />
+  </library>
+</component>

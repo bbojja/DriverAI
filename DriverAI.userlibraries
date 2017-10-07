@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="ejml-0">
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-core-0.29.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-simple-0.29.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-dense64-0.29.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-denseC64-0.29.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-equation-0.29.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-core-0.29-sources.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-simple-0.29-sources.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-dense64-0.29-sources.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-denseC64-0.29-sources.jar" />
+    <archive path="D:/Java Libraries/ejml-0.29-libs/EJML-equation-0.29-sources.jar" />
+  </library>
+</eclipse-userlibraries>
+
